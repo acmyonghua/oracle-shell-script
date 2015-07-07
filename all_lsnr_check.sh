@@ -3,7 +3,7 @@
 ######################## 
 ## 
 ## File name: all_lsnr_check.sh 
-## author: Jesus Alejandro Sanchez 
+## author: Jesus Alejandro Sanchez - jsanchez.consultant@gmail.com
 ## 
 ## This script allows you to scan the /etc/oratab file and look for all Oracle Homes defined 
 ## there to access the listener.ora file and scan it for all listener names. Once that is done, 
