@@ -10,7 +10,7 @@
 ## The script will show you the status of each listener and wait for your input to START or STOP 
 ## the listener or just continue to the next one. 
 ## 
-## Pre-requisites: Set the Oracle environment 
+## Pre-requisites: Set the Oracle environment
 ## 
 ## 05/26/2014 Version 1.0 Jesus Alejandro Sanchez First version of the working script 
 ## 
