@@ -17,7 +17,6 @@
 ############################## 
 
 # Look for all oracle homes in /etc/oratab 
-
 for CURRENT_HOME in `cat /etc/oratab | grep :/ | grep -v agent | cut -d":" -f2 | sort | uniq` 
 do 
 	echo " " 
